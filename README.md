@@ -1,5 +1,4 @@
-# AI_Multimodel-_Locator_generation
-Multimodal AI (combining visuals + DOM analysis) for smarter fixes
+# Multimodal AI (combining visuals + DOM analysis) for smarter fixes
 
 ## Overview
 An extension of our last DOM-based locator healing approach, this is the next evolution in self-healing test automation – **Vision+DOM AI Synergy!**
